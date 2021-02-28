@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\bin\Debug\SendMailWithSMTP.exe.config
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\bin\Debug\SendMailWithSMTP.exe
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\bin\Debug\SendMailWithSMTP.pdb
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\obj\Debug\SendMailWithSMTP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\obj\Debug\SendMailWithSMTP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\obj\Debug\SendMailWithSMTP.exe
+C:\Users\User\Desktop\SendMailWithSMTP\SendMailWithSMTP\obj\Debug\SendMailWithSMTP.pdb
